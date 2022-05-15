@@ -47,11 +47,11 @@ public class Blackjack extends Game {
         }
     }
 
-	//Mutators
+    //Mutators
 
-	/**
-	Runs a game of Blackjack
-	*/
+    /**
+    Runs a game of Blackjack 
+    */
     public void playGame() {
         //variables and array declaration
         final int COMP_DRAW_THRESHOLD = 16, START_BAL = 100;
