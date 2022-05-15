@@ -6,12 +6,12 @@ public class Blackjack extends Game {
     static final int CARDS = 52, CARD_TYPES = 13,  GOAL = 21;
     static final int ACE = 1, JACK = 11, QUEEN = 12, KING = 13;
 
-	/*
-	Constructors
+    /*
+    Constructors
     @param players[] players in the game
     @param bet players' bets on the game
     @param gameID identification number of the game
-	*/
+    */
     public Blackjack(User[] players, double[] bets, int gameID) {
 	super(players, bets, gameID);
 	takeMoney();
