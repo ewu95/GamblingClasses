@@ -18,7 +18,7 @@ public class Blackjack extends Game {
     }
 
 	
-	//Accessors 
+    //Accessors 
 	
     /**
     Converts numeric values of face cards into letters 
