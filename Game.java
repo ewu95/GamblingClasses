@@ -113,6 +113,7 @@ public class Game {
 
 	/**
 	Main class to showcase functionality
+	@param String[] args command-line arguments
 	*/
 	public static void main(String[] args) {
 		User evan = new User("evan1", "asdf", "evan1@asdf");
