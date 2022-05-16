@@ -1,0 +1,12 @@
+Check Game.java for correct documentation
+
+Game
+- returnMoney, takeMoney connects to someone else's class(Wallet)
+
+Blackjack
+- Constructor connects to my own class(Game)
+- playGame connects to wallet class 
+
+UserInterface
+- login connects to User class
+- main connects to Blackjack class 
