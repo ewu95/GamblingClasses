@@ -8,7 +8,7 @@ Description: A basic Game Class for the Gambling Website
 */
 
 public class Game {
-	/* Attributes */
+/* Attributes */
 
 	/** list of players in the game */ 
 	private User[] players; 
